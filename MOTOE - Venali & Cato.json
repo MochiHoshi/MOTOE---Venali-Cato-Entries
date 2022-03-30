@@ -4,5 +4,26 @@
   "artist": "meddlingimp + ToritheHoshi",
   "author": "meddlingimp + ToritheHoshi",
   "cover": "https://i.imgur.com/5pgG1LL.png",
-  "chapters": {}
+  "chapters": {
+    "0": {
+      "title": "Audition - Invitations, Rumors, Exchanges of Names, and All the Pleasantries That Precede the Discovery of a Corpse",
+      "volume": "",
+      "last_updated": "1648603212",
+      "groups": {
+        "": [
+          "https://imgur.com/a/civoFHW"
+        ]
+      }
+    },
+    "1": {
+      "title": "Round 1 - How Many Investigators Does It Take to Screw in a Lightbulb?",
+      "volume": "",
+      "last_updated": "1648603252",
+      "groups": {
+        "": [
+          "https://imgur.com/a/E6VT2xk"
+        ]
+      }
+    }
+  }
 }
